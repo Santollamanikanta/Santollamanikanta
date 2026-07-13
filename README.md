@@ -1,5 +1,5 @@
 # 💫 About Me:
- I'm currently working on<br>Completing my B.Tech in Computer Science Engineering (AI & ML) at KG Reddy College of Engineering and Technology (2022–2026).<br>🤝 I'm looking to collaborate on<br>Python-based projects, especially ones involving databases (SQL/MySQL) or web basics (HTML/CSS).<br>🌱 I'm currently learning<br>Core AI & ML concepts, Database Management Systems, Computer Networks, Operating Systems, and OOPs as part of my coursework.<br>👀 I'm looking for help with<br>Strengthening my hands-on skills in Python, SQL/MySQL, and Git/GitHub through real world practice.<br>💬 Ask me about<br>Python, SQL, MySQL, HTML/CSS, or anything from my AI & ML coursework.<br>
+ 🌱 I'm currently learning<br>Core AI & ML concepts, Database Management Systems, Computer Networks, Operating Systems, and OOPs as part of my coursework.<br>👀 I'm looking for help with<br>Strengthening my hands-on skills in Python, SQL/MySQL, and Git/GitHub through real world practice.<br>💬 Ask me about<br>Python, SQL, MySQL, HTML/CSS, or anything from my AI & ML coursework.<br>
 
 
 ## 🌐 Socials:
